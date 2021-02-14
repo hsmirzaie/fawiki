@@ -27,7 +27,7 @@
 
 ## نحوه استفاده 
 
-پس از clone  و extract کردن فایل های این repository توصیه می شود فایل csv با استفاده از قابلیت chunksize در ماژول pandas زیر باز شود: 
+پس از clone  و extract کردن فایل های این repository توصیه می شود فایل csv با استفاده از قابلیت chunksize در ماژول pandas و مشابه شبه کد زیر باز شود: 
 
 <div dir="auto">
 
