@@ -32,7 +32,9 @@
 <div dir="auto">
 
 ```python
-for chunk in pd.read_csv(csvFile, chunksize=1000):
+import pandas as pd
+
+for chunk in pd.read_csv('fawiki.csv', chunksize=1000):
     process(chunk)
 ```
 </div>
